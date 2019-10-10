@@ -1,0 +1,4 @@
+python-telegram-bot==11.1.0
+cryptography==2.5
+timer3==0.1.2
+pytimeparse==1.1.8
